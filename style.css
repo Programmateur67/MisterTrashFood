@@ -1,0 +1,131 @@
+a
+{
+    color: #222222;
+}
+
+a:hover
+{
+    color: darkred;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+@font-face{
+    font-family: 'trash';
+    src: url('Extension/trash.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.brand {
+    color: red;
+}
+
+.navbarrouge {
+    background-color: darkred;
+}
+
+.background {
+    background-color: #222222;
+}
+
+.titre {
+    color: darkred;
+}
+
+.border {
+    border-bottom-color: dimgray ;
+    border-bottom-width: medium;
+}
+
+.bordertop {
+}
+
+.foot {
+    height: 75px;
+}
+
+.height {
+    height:  75px;
+}
+
+.margin-bottom {
+    margin-bottom: 50px;
+}
+
+.backjum {
+    background-color: transparent;
+    color: black;
+}
+
+.brandtrash {
+    color: darkred;
+    font-family:trash;
+}
+
+.trash {
+    font-family:trash;
+}
+
+.base {
+    font-family:cursive;
+    font-weight: 900;
+}
+.italic {
+    font-style: italic;
+}
+
+.backblanc {
+    background-color: #e1e1e1;
+}
+
+.backune {
+    background-image: url(Images/Kebab.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #e8e8e8;
+}
+
+
+
+
+
+
+
+.imgune {
+}
+
+.titreune {
+}
+
+.trasheur {
+    color: darkred;
+}
+
+.trasheurs {
+    border: 5px, black, dashed;
+}
+
+.red {
+    color: darkred;
+}
+
+.marginleft {
+    margin-left: -15px;
+    padding: 1%;
+    border-left: 5px, #e1e1e1, solid;  
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.backred {
+    background-color: darkred;
+}
+
+.blanc {
+    color: white;
+}
